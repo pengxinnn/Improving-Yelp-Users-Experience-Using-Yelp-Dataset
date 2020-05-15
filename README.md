@@ -1,1 +1,7 @@
-# Improving-Yelp-Users-Experience-Using-Yelp-Dataset
+# Improving Yelp Users Experience Using Yelp Dataset
+
+Yelp is one of the most widely used local business review software worldwide that millions of people use it to discover and review local businesses. It is so widely used that it helps 184 millions of consumers see which businesses are available in their area and how each one has performed for their clients and Yelp.com is the 44th most visited website in the US according to Alexa. However, it has been accused of using unfair practices to raise revenue from the businesses that are reviewed on its site, for example, by presenting more negative review information for companies that do not purchase its advertising services, and also there are many fake positive reviews on Yelp. Besides that, since Yelp only provides a general view about businesses, such as an overall score and a large number of reviews. Unless people have enough time and patience to read all the reviews, otherwise it will be hard for users to know the details of the business. 
+
+As an user of Yelp, I have a deep understanding of some weak points of this software. So by diving deep into Yelp Dataset, I can give some advice and find information that better satisfies their preference for people who use this software to discover businesses to improve their experience when using Yelp to find some useful information to them and I evaluated the quality of reviews on Yelp.
+
+I mainly used Python and html for this report, including pandas, numpy, googlemaps, ipywidgets, matplotlib, nltk, wordcloud, pyproj, seaborn.
